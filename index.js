@@ -54,7 +54,7 @@
     async function getData() {
     let value;
     var myHeaders = new Headers();
-    myHeaders.append("apikey", "aj7oMNLNzY4PbHTqUa1EWVUuSFSM3pXl");
+    myHeaders.append("apikey", "UZgWebNAx6wlPE3DYQx5sKvqZZAoyyfy");
 
     var requestOptions = {
     method: 'GET',
